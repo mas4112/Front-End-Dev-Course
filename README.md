@@ -1,2 +1,2 @@
 # Front-End-Dev-Course
-This is the 1st course project of 'HTML' which I'm learning at coderstrust...,
+For 'Front End Developement Course' which I'm learning @coderstrust...,
